@@ -1,20 +1,10 @@
 # password-strength-analyzer
 Password Strength Analyzer 🔒 — A smart web tool that analyzes password strength in real time, checks if it’s been exposed in data breaches, and offers improvement tips. Includes a secure password generator with adjustable settings for length, symbols, and digits. Built with Flask and JavaScript.
 
-
-Perfect 👏 Let’s make a clean, professional **README.md** for your GitHub project.
-Here’s a full version you can copy–paste directly:
-
----
-
-# 🔐 Password Strength Analyzer
-
 A powerful web-based **Password Strength Analyzer & Generator** built with **Flask** and **JavaScript**.
 It helps users analyze their password strength, detect common weaknesses, check exposure in data breaches, and generate secure passwords.
 
----
-
-## 🚀 Features
+🚀 Features
 
 ✅ Real-time password strength analysis
 ✅ Entropy, length, and rating calculation
@@ -36,7 +26,8 @@ It helps users analyze their password strength, detect common weaknesses, check 
 
 1. **Clone the repository:**
 
-(https://github.com/th3cyberside/password-strength-analyzer/blob/main/assets/img1.png)
+![Password Strength Analyzer Screenshot](https://raw.githubusercontent.com/th3cyberside/password-strength-analyzer/main/assets/img1.png)
+
 
 
 
