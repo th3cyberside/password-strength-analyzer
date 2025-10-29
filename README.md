@@ -28,18 +28,18 @@ It helps users analyze their password strength, detect common weaknesses, check 
 
 ![Password Strength Analyzer Screenshot](https://raw.githubusercontent.com/th3cyberside/password-strength-analyzer/main/assets/img1.png)
 
-
-
-
 2. **Install dependencies:**
 
-
+![Password Strength Analyzer Screenshot](https://raw.githubusercontent.com/th3cyberside/password-strength-analyzer/main/assets/img3.png)
 
 3. **Run the app:**
 
-
+![Password Strength Analyzer Screenshot](https://raw.githubusercontent.com/th3cyberside/password-strength-analyzer/main/assets/img4.png)
 
 4. Open your browser and go to:
+
+![Password Strength Analyzer Screenshot](https://raw.githubusercontent.com/th3cyberside/password-strength-analyzer/main/assets/img5.png)
+
 
  
 
